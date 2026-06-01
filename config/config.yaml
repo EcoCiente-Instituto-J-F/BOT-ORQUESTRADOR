@@ -1,0 +1,12 @@
+BancoDestino:
+  host: "localhost"
+  port: "6767"
+  database: "my_database"
+  user: "my_user"
+  password: "my_password"
+BancoOrigem:
+  host: "localhost"
+  port: "6767"
+  database: "my_database"
+  user: "my_user"
+  password: "my_password"
